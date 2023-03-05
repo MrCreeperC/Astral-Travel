@@ -15,4 +15,4 @@ Only this "Astral" will be with its terrifying entities, objects, and the whole 
 I am a Russian programmer, so don't expect something majestic from me (if there are mistakes, I'm sorry)
 
 
-https://img.shields.io/badge/license-MIT-brightgreen
+[https://img.shields.io/badge/license-MIT-brightgreen](https://img.shields.io/badge/license-MIT-brightgreen)
