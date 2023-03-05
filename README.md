@@ -1,6 +1,6 @@
 # Astral-Travel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F72F&width=435&lines=Welcome+to+the+small+open+source+world+of+my+%22Astral-Travel%22+mod)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=13F72F&multiline=true&width=500&height=80&lines=Welcome+to+the+small+open+source+world+of;my+%22Astral-Travel%22+mod)](https://git.io/typing-svg)
 
 
 
