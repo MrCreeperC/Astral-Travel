@@ -13,3 +13,6 @@ In short, if this is your first time here, I'll tell you what this mod is about.
 Only this "Astral" will be with its terrifying entities, objects, and the whole dimension, I hope you will like my mod, because this is the 2nd mod in a row (even consider the first one, because the last mod was not completed).
 
 I am a Russian programmer, so don't expect something majestic from me (if there are mistakes, I'm sorry)
+
+
+https://img.shields.io/badge/license-MIT-brightgreen
