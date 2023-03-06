@@ -3,23 +3,22 @@
 	"id": "astr",
 	"version": "1.0",
 	"name": "Astral Travel",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Astral - a place where you can just take and leave? A place where you can relax? Not here. Here you will see a lot of bosses and amazing mobs",
 	"authors": [
-		"MrCreeperC"
+		"MrCreeperC MrKovoTasik"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/MrCreeperC/Astral-Travel/tree/master"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/astr/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.mrcreeperc.astr.ExampleMod"
+			"net.mrcreeperc.astr.AstrMod"
 		],
 		"fabric-datagen": [
-			"net.mrcreeperc.astr.ExampleModDataGenerator"
+			"net.mrcreeperc.astr.AstrModDataGenerator"
 		]
 	},
 	"mixins": [
