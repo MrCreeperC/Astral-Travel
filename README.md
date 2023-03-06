@@ -1,4 +1,4 @@
-# Astral-Travel
+<h1>🧿Astral-Travel🔮</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=13F72F&multiline=true&width=500&height=80&lines=Welcome+to+the+small+open+source+world+of;my+%22Astral-Travel%22+mod)](https://git.io/typing-svg)
 
@@ -17,4 +17,4 @@ I am a Russian programmer, so don't expect something majestic from me (if there 
 
 
 <img alt="Bower" src="https://img.shields.io/bower/l/MI">
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]
+
