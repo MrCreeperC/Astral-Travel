@@ -2,6 +2,7 @@ package net.mrcreeperc.astr;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.mrcreeperc.astr.block.ModBlocks;
 import net.mrcreeperc.astr.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,5 +15,6 @@ public class AstrMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.RegisterModBlocks();
 	}
 }
