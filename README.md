@@ -16,4 +16,4 @@ I am a Russian programmer, so don't expect something majestic from me (if there 
 
 
 
-https://img.shields.io/bower/l/MI
+<img alt="Bower" src="https://img.shields.io/bower/l/MI">
