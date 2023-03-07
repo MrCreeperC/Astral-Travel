@@ -17,6 +17,9 @@
 		"main": [
 			"net.mrcreeperc.astr.AstrMod"
 		],
+		"client": [
+			"net.mrcreeperc.astr.AstrModClient"
+			],
 		"fabric-datagen": [
 			"net.mrcreeperc.astr.AstrModDataGenerator"
 		]

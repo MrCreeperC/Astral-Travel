@@ -12,6 +12,7 @@ import net.minecraft.item.ToolItem;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import net.mrcreeperc.astr.AstrMod;
+import net.mrcreeperc.astr.block.custom.SpawnGhostBlock;
 import net.mrcreeperc.astr.item.ModItemGroup;
 
 public class ModBlocks {
@@ -19,7 +20,8 @@ public class ModBlocks {
     public static final Block ASTRAL_STONE_BLOCK = registerBlock("astral_stone_block",
             new Block(FabricBlockSettings.of(Material.STONE, MapColor.MAGENTA).strength(3.0F, 3.0F).requiresTool()), ModItemGroup.ASTRAL_TRAVEL);
 
-
+    public static final Block ASTRAL_GHOST_BLOCK = registerBlock("astral_ghost_block",
+            new SpawnGhostBlock(FabricBlockSettings.of(Material.STONE).strength(4f, 4f).requiresTool()), ModItemGroup.ASTRAL_TRAVEL);
 
 
     public static Block registerBlock(String name, Block block, ItemGroup group) {

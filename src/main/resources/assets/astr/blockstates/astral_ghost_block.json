@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "astr:block/astral_ghost_block"
+    }
+  }
+}
