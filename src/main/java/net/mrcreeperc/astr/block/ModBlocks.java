@@ -3,6 +3,7 @@ package net.mrcreeperc.astr.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
+import net.minecraft.block.MapColor;
 import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -16,7 +17,7 @@ import net.mrcreeperc.astr.item.ModItemGroup;
 public class ModBlocks {
 
     public static final Block ASTRAL_STONE_BLOCK = registerBlock("astral_stone_block",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(4.0f).requiresTool()), ModItemGroup.ASTRAL_TRAVEL);
+            new Block(FabricBlockSettings.of(Material.STONE, MapColor.MAGENTA).strength(3.0F, 3.0F).requiresTool()), ModItemGroup.ASTRAL_TRAVEL);
 
 
 
