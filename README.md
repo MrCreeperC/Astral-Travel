@@ -20,5 +20,4 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 <img alt="Bower" src="https://img.shields.io/bower/l/MI">
-<img alt="Bower" src="https://img.shields.io/amo/dw/downloads?logo=Astral-Travel&logoColor=brightgreen">
 
